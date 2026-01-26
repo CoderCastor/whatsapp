@@ -1,0 +1,7 @@
+{(name != "calls" || name != "chats") ? }
+
+<div className="size-12.5 rounded-full flex justify-center items-center border border-green-400">
+                <div className="bg-[#321622] border border-[#402530] rounded-full size-11.5 shrink-0 flex justify-center items-center">
+                    <IconUsers color="#FB7583" size={20} />
+                </div>
+            </div>

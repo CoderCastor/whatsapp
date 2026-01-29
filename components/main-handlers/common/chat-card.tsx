@@ -30,7 +30,9 @@ export const ChatHandler = () => {
                         GFM BE (B) COMP ROLL NO 01 TO 35
                     </h3>
                     <div className="shrink-0 flex justify-center items-center">
-                        <p className="text-[14px]  text-[#959393] pl-1.5">Monday</p>
+                        <p className="text-[14px]  text-[#959393] pl-1.5">
+                            Monday
+                        </p>
                         <AnimatePresence>
                             {showOptionButton && (
                                 <motion.button
